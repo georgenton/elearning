@@ -762,5 +762,15 @@
     "invalid_course": "Invalid course",
     "do_you_want_to_leave_the_live_video_class": "Do you want to leave the live video class",
     "you_can_join_them_later_if_the_video_class_remains_ive": "You can join them later if the video class remains ive",
-    "you_have_not_scheduled_any_live_class_yet": "You have not scheduled any live class yet"
+    "you_have_not_scheduled_any_live_class_yet": "You have not scheduled any live class yet",
+    "language_added_successfully": "Language added successfully",
+    "manage_profile": "Manage profile",
+    "a_short_title_about_yourself": "A short title about yourself",
+    "the_image_size_should_be_any_square_image": "The image size should be any square image",
+    "choose_file": "Choose file",
+    "update_profile": "Update profile",
+    "current_password": "Current password",
+    "new_password": "New password",
+    "confirm_new_password": "Confirm new password",
+    "update_password": "Update password"
 }
