@@ -782,5 +782,7 @@
     "ganancias_de_instructor": "Ganancias de instructor",
     "administrar_ganancias": "Administrar ganancias",
     "configuración_de_pago": "Configuración de pago",
-    "administrador_de_complementos": "Administrador de complementos"
+    "administrador_de_complementos": "Administrador de complementos",
+    "sort_lessons_of": "Sort lessons of",
+    "lessons_have_been_sorted": "Lessons have been sorted"
 }
