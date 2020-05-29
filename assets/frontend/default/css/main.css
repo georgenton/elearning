@@ -1001,19 +1001,19 @@ homepage styles
     background: #fff;
     border: 0;
     border-radius: 0 3px 3px 0;
-    color: #ec5252;
+    color: #f28a00;
 }
 .home-banner-wrap .btn:hover{
-    background: #ec5252;
+    background: #f28a00;
     color: #fff;
 }
 .home-fact-area{
     background-color: #ec5252;
-    background: -webkit-linear-gradient(-45deg,#ec5252,#6e1a52);
-    background: -moz-linear-gradient(-45deg,#ec5252 0,#6e1a52 100%);
-    background: -ms-linear-gradient(-45deg,#ec5252 0,#6e1a52 100%);
-    background: -o-linear-gradient(-45deg,#ec5252 0,#6e1a52 100%);
-    background: linear-gradient(-45deg,#ec5252,#6e1a52);
+    background: -webkit-linear-gradient(-45deg,#ec5252,#f28a00);
+    background: -moz-linear-gradient(-45deg,#ec5252 0,#f28a00 100%);
+    background: -ms-linear-gradient(-45deg,#ec5252 0,#f28a00 100%);
+    background: -o-linear-gradient(-45deg,#ec5252 0,#f28a00 100%);
+    background: linear-gradient(-45deg,#ec5252,#f28a00);
     color: #fff;
     padding: 15px 0;
     margin-bottom: 50px
